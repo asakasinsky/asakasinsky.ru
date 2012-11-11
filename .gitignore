@@ -35,3 +35,8 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
+
+# Sublime Text 2
+#----------------
+asakasinsky_ru.sublime-project
+asakasinsky_ru.sublime-workspace
