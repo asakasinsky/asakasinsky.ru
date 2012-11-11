@@ -1,0 +1,13 @@
+---
+layout: page
+title: Ой! Страницы, которую вы ищете — нет.
+footer: false
+---
+<p>Мо­жет быть, её&nbsp;и&nbsp;не&nbsp;бы­ло. В&nbsp;лю­бом слу­чае чуть ни­же&nbsp;— спи­сок тех стра­ниц, что есть.</p>
+<div id="blog-archives" class="missing">
+{% for post in site.posts limit: 10 %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
+</div>
