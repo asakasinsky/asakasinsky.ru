@@ -4,7 +4,7 @@ title: "MIME type для JSON"
 date: 2012-11-10 21:40
 comments: true
 categories: 
-- узелки на память
+- памятка
 tags:
 - "разработка"
 - "Best practice"

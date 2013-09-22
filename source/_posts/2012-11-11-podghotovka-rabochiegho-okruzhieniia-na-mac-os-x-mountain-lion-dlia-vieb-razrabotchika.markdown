@@ -4,7 +4,7 @@ title: "Подготовка рабочего окружения на Mac OS X M
 date: 2012-11-11 01:36
 comments: true
 categories: 
-- узелки на память
+- памятка
 tags: 
 - "разработка"
 - "Best practice"
@@ -32,7 +32,7 @@ description: "Подготовка рабочего окружения на Mac 
 
 {% codeblock «Sublime Text» — делаем запуск из терминала. lang:bash %}
 # Нам нужен будет доступ к этой папке.   
-ssudo chown -R `whoami` /usr/local
+sudo chown -R `whoami` /usr/local
 # Проверяем работу CLI  
 open /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl
 # Если открылся Sublime Text, значит все ОК. Создадим симлинк на subl:  
@@ -126,7 +126,7 @@ sublime ~/.gitconfig
 ## Ставим RVM для Ruby 1.9.3
 
 {% codeblock RVM lang:bash %}
-curl -L https://get.rvm.io | bash -s stable \-\-ruby</code>  
+curl -L https://get.rvm.io | bash -s stable --ruby
 # Вбиваем:
 type rvm | head -1
 
@@ -225,7 +225,9 @@ mongo
 ## Ставим PHP
 
 Несмотря на наличие интерпретатора PHP в «коробочной поставке» OSX, будем собирать версию PHP из исходников. 
+
 Причины:
+
 * Последняя версия
 * 64-бит
 * [mysqlnd](http://habrahabr.ru/post/154663/)
@@ -446,7 +448,7 @@ scutil --dns
 brew install node 
 git clone http://github.com/isaacs/npm.git
 cd npm
-sudo make install
+make install
 
 sublime ~/.zshrc 
 # Вносим в файл

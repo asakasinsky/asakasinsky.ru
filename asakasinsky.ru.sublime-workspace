@@ -1,0 +1,1418 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"sc",
+				"scrollable"
+			],
+			[
+				"pag",
+				"page_id"
+			],
+			[
+				"o",
+				"overwrite"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"app",
+				"append_page"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ri",
+				"right_pane"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ima",
+				"image_files"
+			],
+			[
+				"im",
+				"image_files"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"ro",
+				"roman"
+			],
+			[
+				"co",
+				"colossal"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"console",
+				"console.info();"
+			],
+			[
+				"con",
+				"console.log();"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"bott",
+				"bottom-panel"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"i",
+				"items  (variable)"
+			],
+			[
+				"parseI",
+				"parseInt  (function)"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"heig",
+				"height"
+			],
+			[
+				"pa",
+				"page_obj"
+			],
+			[
+				"in",
+				"indicator"
+			],
+			[
+				"scroll",
+				"scroller_"
+			],
+			[
+				"bal",
+				"background-color"
+			],
+			[
+				"roo",
+				"root_id"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"me",
+				"menuItem"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"to",
+				"toJSON"
+			],
+			[
+				"curr",
+				"current_item_obj"
+			],
+			[
+				"par",
+				"parent_id"
+			],
+			[
+				"curren",
+				"current_item_obj  (variable)"
+			],
+			[
+				"current",
+				"current_item_obj"
+			],
+			[
+				"cu",
+				"current_item_obj"
+			],
+			[
+				"pre",
+				"prepend"
+			],
+			[
+				"bu",
+				"build_page_next"
+			],
+			[
+				"on",
+				"on"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"str",
+				"toString  (function)"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"buil",
+				"build_page"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"ini",
+				"init"
+			],
+			[
+				"tes",
+				"test_data"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pull",
+				"pull-left"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"tr",
+				"try"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"MY",
+				"MY_items"
+			],
+			[
+				"cre",
+				"createTags"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"com",
+				"composition"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"mi",
+				"mixinLink"
+			],
+			[
+				"file",
+				"fileUrl"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"debug",
+				"debugLog"
+			],
+			[
+				"nod",
+				"node_update"
+			],
+			[
+				"it",
+				"item-ext"
+			],
+			[
+				"span",
+				"span4"
+			],
+			[
+				"do",
+				"dotted"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"cal",
+				"calc_top"
+			],
+			[
+				"My",
+				"MY_items"
+			],
+			[
+				"M",
+				"MY_items"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"th",
+				"this	this"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"obj",
+				"objLink"
+			],
+			[
+				"menu",
+				"menu-item"
+			],
+			[
+				"a",
+				"absolute	(a)"
+			],
+			[
+				"j",
+				"js"
+			],
+			[
+				"img",
+				"IMG"
+			],
+			[
+				"x",
+				"xhr"
+			],
+			[
+				"dr",
+				"draggable"
+			],
+			[
+				"drop",
+				"droppable"
+			],
+			[
+				"ui",
+				"ui_width"
+			],
+			[
+				"debu",
+				"debugLog"
+			],
+			[
+				"margin-",
+				"margin-left:   (property)"
+			],
+			[
+				"li",
+				"MY_list_container"
+			],
+			[
+				"deb",
+				"debugLog"
+			],
+			[
+				"sor",
+				"sortable_handler"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"no",
+				"node_remove"
+			],
+			[
+				"stop",
+				"stopPropagation  (variable)"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"is",
+				"is_copy"
+			],
+			[
+				"l",
+				"length  (variable)"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"da",
+				"data-parent-link"
+			],
+			[
+				"visibili",
+				"visibility	visibility: type"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 3195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".slugignore",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"PAC",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markboard: Copy Rich Text"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"oc",
+				"Octopress: Deploy"
+			],
+			[
+				"o",
+				"Octopress: Preview Stop"
+			],
+			[
+				"oct",
+				"Octopress: Deploy"
+			],
+			[
+				"ge",
+				"Octopress: Generate And Deploy"
+			],
+			[
+				"prev",
+				"Octopress: Preview Start"
+			],
+			[
+				"de",
+				"Octopress: Deploy"
+			],
+			[
+				"octo",
+				"Octopress: Preview Stop"
+			],
+			[
+				"po",
+				"Octopress: New Post"
+			],
+			[
+				"pos",
+				"Octopress: New Post"
+			],
+			[
+				"n",
+				"Octopress: New Post"
+			],
+			[
+				"new",
+				"Octopress: New Post"
+			],
+			[
+				"post",
+				"Octopress: New Post"
+			],
+			[
+				"octopres",
+				"Octopress: New Post"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pr",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pret",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"we",
+				"Web Inspector"
+			],
+			[
+				"swe",
+				"Set Syntax: Web Inspector (Log)"
+			],
+			[
+				"swi",
+				"Snippet: wrapInner"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git: ",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git a",
+				"Git: Add Current File"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"gi",
+				"Git: Commit"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"pla",
+				"Package Control: List Packages"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"packe",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"hg",
+				"Hg: Push"
+			],
+			[
+				"hg add",
+				"Hg: Add Current File"
+			],
+			[
+				"hg a",
+				"Hg: Add Current File"
+			],
+			[
+				"PACK",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"prin",
+				"Print to HTML: print as HTML via browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"comm",
+				"Hg: Quick Commit"
+			],
+			[
+				"h",
+				"Hg: Pull"
+			],
+			[
+				"prefx",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"i",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"men",
+				"SublimeHg: Open Menu"
+			],
+			[
+				"sta",
+				"View: Toggle Status Bar"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"mi",
+				"View: Toggle Minimap"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"open files",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"su",
+				"SublimeHg: Hg"
+			],
+			[
+				"sub",
+				"SublimeHg: Hg"
+			],
+			[
+				"sublime",
+				"SublimeHg: Hg"
+			],
+			[
+				"sublimehg",
+				"SublimeHg: Hg"
+			],
+			[
+				"SUBLIMEHG",
+				"Set Syntax: SublimeHg Command Line"
+			],
+			[
+				"SUBLI",
+				"Set Syntax: SublimeHg Command Line"
+			],
+			[
+				"subli",
+				"Set Syntax: SublimeHg Command Line"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mo",
+				"Mote"
+			],
+			[
+				"mote",
+				"Mote"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 215.0,
+		"history":
+		[
+			"print(os.environ)",
+			"import os;",
+			"print(os.environ)",
+			"import os;",
+			"sys.version",
+			"import sys",
+			"sys.version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2013-08-28-nichiegho-vam-nie-pomozhiet.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_includes/archive_post.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_includes/navigation.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/blog/archives/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_includes/post/author.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/404.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/2012/06/12/skaz-o-ssh/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/2012/06/23/virtual'noie-okrujenie-python-na-khostinghie/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/2012/11/10/mime-type-dlia-json/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/2012/11/11/podghotovka-rabochiegho-okruzhieniia-na-mac-os-x-mountain-lion-dlia-vieb-razrabotchika/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/2012/11/11/ustanovka-osx-mountain-lion-na-acer-aspire-5750g-2414g50/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/blog/archives/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/categories/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/categories/uzielki-na-pamiat'/atom.xml",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/public/categories/uzielki-na-pamiat'/index.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2012-06-12-skaz-o-ssh.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2012-06-23-virtual'noie-okrujenie-python-na-khostinghie.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2012-11-10-mime-type-dlia-json.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2012-11-11-podghotovka-rabochiegho-okruzhieniia-na-mac-os-x-mountain-lion-dlia-vieb-razrabotchika.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2012-11-11-ustanovka-osx-mountain-lion-na-acer-aspire-5750g-2414g50.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2013-08-22-html-atribut-rel.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/plugins/category_list.rb",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_includes/post/categories.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/plugins/category_generator.rb",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_includes/custom/category_list.html",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/Rakefile",
+		"/Users/asakasinsky/Downloads/octopress-master/_config.yml",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2013-05-22-zepto-podborka-plaghinov.markdown",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2013-08-27-paskhalka-ot-apple.markdown",
+		"/etc/hosts",
+		"/Users/asakasinsky/Workspace/lamp/asakasinsky.ru.dev/source/_posts/2013-06-14-nashiel-paskhalku-ot-iandieks.markdown",
+		"/Users/asakasinsky/Яндекс.Диск/Development Book/ssh.md",
+		"/Users/asakasinsky/Desktop/sublime text 3  - что не пошло",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2012-06-01-pierieiezd-na-octopress.markdown",
+		"/Users/asakasinsky/Library/Application Support/Sublime Text 3/Packages/User/Markboard.sublime-settings",
+		"/Users/asakasinsky/Library/Application Support/Sublime Text 3/Packages/Markboard3/Markboard.sublime-settings",
+		"/Users/asakasinsky/Library/Application Support/Sublime Text 3/Packages/Markboard3/README.mdown",
+		"/Users/asakasinsky/Vagrant/vagrant-php-development-box/Vagrantfile",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/wiki/index.php",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/fontfaces.less",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/wiki/assets/fonts/PTMonoWeb/PTM75Fstylesheet.css",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/wiki/assets/fonts/PTMonoWeb/PTM55Fstylesheet.css",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/wiki/assets/normalize/normalize.css",
+		"/Users/asakasinsky/Workspace/lamp/wordpress.dev/htdocs/index.php",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2012-11-11-ustanovka-osx-mountain-lion-na-acer-aspire-5750g-2414g50.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-06-14-nashiel-<<paskhalku>>-ot-iandieks.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/_config.yml",
+		"/Users/asakasinsky/Workspace/lamp/idbi-short.dev/htdocs/lib/rat.js",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/thirdparties/phantom-limb.js",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/_config.yml.old",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/.themes/classic/source/_includes/after_footer.html",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-04-19-emulate-touch-events.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-05-22-zepto-podborka-plaghinov.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_layouts/post.html",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/.themes/whitespace/source/_layouts/post.html",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2012-06-24-hmvc-i-sparks-zarabotali-vmiestie.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_includes/header.html",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-05-19-grunt-recess-oshibka-parser-error.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-05-19-emulate-touch-events.markdown",
+		"/Users/asakasinsky/Library/Application Support/Sublime Text 2/Packages/Octopress/octopress.py",
+		"/Users/asakasinsky/Library/Application Support/Sublime Text 2/Packages/User/octopress.sublime-settings",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-05-19-fyfy.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-05-18-sff-sfs.markdown",
+		"/Users/asakasinsky/Workspace/asakasinsky.ru.dev/source/_posts/2013-05-18-ddd-dd.markdown",
+		"/Users/asakasinsky/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/helper.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/templates/templates_old.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/app.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/app.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/variables.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/hackerweb/assets/css/hw-ios.css",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/base-style.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/i18n.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/ios.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/hackerweb/index.html",
+		"/Users/asakasinsky/Workspace/rusizba/4.html",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/hackerweb/manifest.appcache",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/item/b-item.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/item/item.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/item/section.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/templates/templates.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/item/food.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/sprites.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/index.html",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/colours.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/stripes.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/fonts/DroidSans/stylesheet.css",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/build/Gruntfile.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/panels/home-button.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/panels/bottom-panel.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/panels/bottom-panel-button.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/mixins.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/layouts/b-app.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/animations.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/sprites2.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/define.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/panels/top-panel.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/breadcrumbs/breadcrumbs.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/test.html",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/layouts/center-pane.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/page/page-box.less",
+		"/private/var/folders/hq/p6zh_26j60xfkvv538t71g380000gn/T/fz3temp-1/registration 2.php",
+		"/private/var/folders/hq/p6zh_26j60xfkvv538t71g380000gn/T/fz3temp-1/reg_3.php",
+		"/private/var/folders/hq/p6zh_26j60xfkvv538t71g380000gn/T/fz3temp-1/registration-oriflame.php",
+		"/private/var/folders/hq/p6zh_26j60xfkvv538t71g380000gn/T/fz3temp-1/registration_model.php",
+		"/private/var/folders/hq/p6zh_26j60xfkvv538t71g380000gn/T/fz3temp-1/registration_view.php",
+		"/private/var/folders/hq/p6zh_26j60xfkvv538t71g380000gn/T/fz3temp-1/registration.php",
+		"/private/var/folders/hq/p6zh_26j60xfkvv538t71g380000gn/T/fz3temp-1/reg.php",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/common/add2home/add2home.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/publish/js/app.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/common/add2home/add2home.less.css",
+		"/Users/asakasinsky/Downloads/Радио-Т/radiot.py",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/views/main_view.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/index.html",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/common/iscroll/examples/hover/index.html",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/views/auth_view.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/page/auth-box.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/response.json",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/index.php",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/tools/media-query/index.html",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/views/item_view.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/common/iscroll/examples/carousel/index.html",
+		"/Users/asakasinsky/Workspace/lamp/localhost.dev/htdocs/tools/webdevchecklist/index.html",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/blocks/layouts/left-pane.less",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/views/app_view.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/views/food_view.js",
+		"/Users/asakasinsky/Workspace/lamp/touch-n-get-client.dev/htdocs/libs/app/views/section_view.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"узелки на память",
+			"to_url",
+			"def to_url",
+			"to_url",
+			"downcase",
+			"categories",
+			"category_links",
+			"CategoryList",
+			"category_list",
+			"400",
+			"Open_Sans",
+			"wordpress",
+			"zebralab",
+			"Ukulele",
+			"document",
+			"aside.sidebar",
+			"twitter",
+			" aside.sidebar",
+			"body.sidebar-footer aside.sidebar",
+			"after_footer",
+			"google_plus_one",
+			"sidebar",
+			"post/tags.htm",
+			"exec_command",
+			"new_post",
+			"App_tpls",
+			"background",
+			"imgprewiew2base64",
+			"img2base64",
+			"json",
+			"Restaurant.menu",
+			"Restaurant.garson",
+			"ellipsis",
+			"><",
+			".button.back",
+			".button",
+			".back",
+			".button",
+			".button.back",
+			".button",
+			"top_panel",
+			"left",
+			"margin",
+			"Taurus",
+			"@taurus",
+			"taurus",
+			"comfortaa",
+			"<img src=\"{{ imgprewiew2base64 }}\" class=\"item-img\"/>\\",
+			".1666666em",
+			"setTimeout",
+			"0.0006666em 0.0006666em 0.15em 0 rgba(0, 0, 0, 0.7)",
+			"0.0006666em",
+			"166",
+			"0.1666666em 0.1666666em 0.25em 0 rgba(0, 0, 0, 0.7)",
+			"inline-block",
+			"relative",
+			"button-label",
+			"..",
+			"border",
+			"40px",
+			"100px",
+			"25px",
+			"1.5px",
+			"2px",
+			"22px",
+			"30px",
+			"0.1818181em",
+			"0px",
+			" 2px",
+			"2px",
+			"1px",
+			"15px",
+			"10px",
+			"parent",
+			"yestoday",
+			"dt2sql",
+			"tuesday_human",
+			"iPhone v(5",
+			"addToHome",
+			"helper",
+			"noBounce",
+			"bounce",
+			"img",
+			"iphone 5",
+			"swipeHandler",
+			"iPhoneHeight",
+			"iScroll",
+			"outer",
+			"Router",
+			"item/:item_id\":\"",
+			"Router",
+			"appRouter",
+			"Restaurant.Router",
+			"split",
+			"page_id",
+			"pag_id",
+			"'_'",
+			"id",
+			"go2page",
+			"append_bcrumb",
+			"append_page",
+			"go2page",
+			"direction",
+			"current_level",
+			"client",
+			"dirname",
+			"http://nmsdvid.com/snippets/",
+			"http://webdevchecklist.ru/",
+			".back",
+			"back",
+			"<i class=\"button-label icon-ellipsis\"></i>",
+			"class=\"btn-left\"",
+			"logo",
+			"param_calc",
+			"Views.Main",
+			"Application",
+			"init",
+			"iconIphoneSize",
+			"add_food",
+			"part",
+			"4.4166666em",
+			"foodBtnHeight",
+			"can_i_help_you",
+			"3.9166666",
+			"screen_width",
+			"tpl_food",
+			"ich",
+			"$back_panel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"памятка",
+			"18%",
+			"restaurant",
+			"MY_project.state",
+			"MY_project.breadcrumb",
+			"MY_project.list_container",
+			"MY_project.tree",
+			"MY_project.parent_name",
+			"MY_project.parent",
+			"breadcrumb_click_handler",
+			"item_click_handler",
+			"show_child",
+			"MY_parent",
+			"CI",
+			"restourant",
+			"FALSE",
+			"( ! (int)",
+			"fetch_assoc",
+			"dump",
+			"analyze",
+			"fix_copy",
+			"move",
+			"remove",
+			"create",
+			"get_children",
+			"get_node",
+			"get_node_obj",
+			"get_root",
+			"set_data",
+			"select_tree",
+			"remove_tree",
+			"get_children_obj",
+			"$this->_ci->db->query(",
+			"item-btn-auto",
+			"item-panel-block",
+			"item-panel",
+			"item-panel-b",
+			"item-cash",
+			"item-cash-b",
+			"Пользовательское",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2376,
+								2376
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 817.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".slugignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.777239084928,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 66.0
+	},
+	"output.git":
+	{
+		"height": 96.0
+	},
+	"project": "asakasinsky.ru.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pask",
+				"source/_posts/2013-08-27-paskhalka-ot-apple.markdown"
+			],
+			[
+				"heade",
+				"application/modules/auth/views/header.php"
+			],
+			[
+				"",
+				"application/modules/admin/models/admin_model.php"
+			],
+			[
+				"admi",
+				"application/modules/admin/models/admin_model.php"
+			],
+			[
+				"mai",
+				"application/modules/main/models/main_model.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/lamp/touch-n-get-client.dev/touch-n-get-client.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 980.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

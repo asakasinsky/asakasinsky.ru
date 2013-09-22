@@ -9,7 +9,7 @@ module Octopress
 
     # Названия месяцев -- сокращенные и полные, плюс отдельностоящие.
     # Не забудьте nil в начале массиве (~)
-    # 
+    #
     #
     # Don't forget the nil at the beginning; there's no such thing as a 0th month
     COMMON_MONTHNAMES_RU = [nil, "января", "февраля", "марта", "апреля", "мая", "июня", "июля", "августа", "сентября", "октября", "ноября", "декабря"]

@@ -4,7 +4,7 @@ title: "Виртуальное окружение Python на хостинге"
 date: 2012-06-23 02:26
 comments: true
 categories: 
-- узелки на память
+- памятка
 tags:
 - "разработка"
 - Python

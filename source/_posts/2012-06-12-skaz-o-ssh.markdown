@@ -4,7 +4,7 @@ title: "Сказ о том, как на сервера по SSH ходить"
 date: 2012-06-12 02:50
 comments: true
 categories: 
-- узелки на память
+- памятка
 tags:
 - "разработка"
 - "Best practice"
